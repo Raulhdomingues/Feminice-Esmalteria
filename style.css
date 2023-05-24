@@ -96,7 +96,7 @@ p:hover {
     font-weight: bold;
     text-shadow: 1px 1px 1px black;
     border-radius: 10px;
-    background-color: linear-gradient(rgba(255, 255, 255, 0))
+    background-color: linear-gradient(rgba(255, 255, 255, 0));
     border: none;
     border: 0;
     background-color: white;
