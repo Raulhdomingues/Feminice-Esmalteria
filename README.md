@@ -1,1 +1,1 @@
-Página para esmalteria da minha esposa.
+projeto de uma página para esmalteria da minha esposa.
